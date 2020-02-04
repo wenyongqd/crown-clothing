@@ -28,4 +28,4 @@ class ShopPage extends Component{
     }
 }
 
-export default ShopPage;
+export default ShopPage
